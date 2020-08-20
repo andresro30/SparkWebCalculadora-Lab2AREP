@@ -26,7 +26,7 @@ java -version
 ## Instalación
 Para instalar el programa debe descargar el repositorio usando el siguiente comando desde su consola CMD
 ```
-git clone https://github.com/andresro30/Introduccion-AREP.git
+git clone https://github.com/andresro30/SparkWebCalculadora-Lab2AREP.git
 ```
 ## Ejecución
 Para compilar el proyecto debe use el siguiente comando cuando acceda al directorio Introduccion-AREP
@@ -35,7 +35,7 @@ mvn package
 ```
 Cuando ya el proyecto ha compilado, puede proceder a ejecutarlo, use el siguiente comando sobre el directorio Introduccion-AREP
 ```
-java -cp target/Introduccion-AREP-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
+java -cp target/SparkWeb-Lab2-AREP-1.0-SNAPSHOT.jar edu.escuelaing.arem.SparkWebApp
 ```
 ## Ejecución de pruebas
 Para correr las pruebas debe usar el siguiente comando
