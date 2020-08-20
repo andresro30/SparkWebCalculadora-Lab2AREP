@@ -65,7 +65,8 @@ En esta imagen se puede observar que las pruebas diseñadas para verificar el fu
 * [Maven](https://maven.apache.org/) : Herramienta encargada de la construcción del proyecto y el manejo de dependencias
 * [Spark](https://spark.apache.org/docs/0.9.1/java-programming-guide.html) : Framwework para desarrollo de aplicaciones web
 * [Git](https://git-scm.com/) : Sistema de control de versiones.
-* [Heroku](https://dashboard.heroku.com/apps) : Plataforma de servicios cloud.
+* [CircleCI](https://circleci.com/) : Integración contínua [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/andresro30/SparkWebCalculadora-Lab2AREP)
+* [Heroku](https://dashboard.heroku.com/apps) : Despliegue contínuo. [![Heroku](https://www.herokucdn.com/deploy/button.png)](https://hidden-stream-43548.herokuapp.com/) 
 * Java : Lenguaje de Programación.
 ## Autor
 * **Andrés Rocha** - [andresro30](https://github.com/andresro30)
