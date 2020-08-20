@@ -5,7 +5,7 @@ Para usar esta calculadora puede ingresar a esta [página](https://hidden-stream
 
 ![](https://github.com/andresro30/SparkWebCalculadora-Lab2AREP/blob/master/images/heroku.PNG)
 
-Solo debe leer las intrucciones e ingresar el conjunto de números que desee operar. Cuando de click en el botón verá los resultados
+Solo debe leer las instrucciones e ingresar el conjunto de números que desee operar. Cuando de click en el botón verá los resultados
 
 ![](https://github.com/andresro30/SparkWebCalculadora-Lab2AREP/blob/master/images/resultado.PNG)
 
