@@ -5,9 +5,9 @@ import spark.Response;
 import static spark.Spark.*;
 
 /**
- * Propiedades de la clase SparkWebCalculadora
+ * Propiedades de la clase SparkWebApp
  */
-public class SparkWebCalculadora {
+public class SparkWebApp {
 
     /**
      * Método principal de la clase. Define las peticiones Http que se realizan
