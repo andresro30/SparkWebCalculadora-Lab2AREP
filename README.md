@@ -3,11 +3,11 @@ Calculadora estadística con las funciones de media y desviación estándar de u
 
 Para usar esta calculadora puede ingresar a esta [página](https://hidden-stream-43548.herokuapp.com/). Cuando ingrese a ese link debe aparece una pantalla como esta:
 
-![]()
+![](https://github.com/andresro30/SparkWebCalculadora-Lab2AREP/blob/master/images/heroku.PNG)
 
-Solo debe leer las intrrucciones e ingresar el conjunto de números que desee operar. Cuando de click en el botón verá los resultados
+Solo debe leer las instrucciones e ingresar el conjunto de números que desee operar. Cuando de click en el botón verá los resultados
 
-![]()
+![](https://github.com/andresro30/SparkWebCalculadora-Lab2AREP/blob/master/images/resultado.PNG)
 
 ## Pre-requisitos
 * [Maven](https://maven.apache.org/) : Herramienta encargada de la construcción del proyecto y el manejo de dependencias
@@ -39,7 +39,7 @@ Para compilar el proyecto debe use el siguiente comando cuando acceda al directo
 ```
 mvn package
 ```
-Cuando ya el proyecto ha compilado, puede proceder a ejecutarlo, use el siguiente comando sobre el directorio Introduccion-AREP
+Cuando ya el proyecto ha compilado, puede proceder a ejecutarlo, use el siguiente comando sobre el directorio SparkWebCalculadora
 ```
 java -cp target/SparkWeb-Lab2-AREP-1.0-SNAPSHOT.jar edu.escuelaing.arem.SparkWebApp
 ```
@@ -50,7 +50,7 @@ localhost:45555/
 ```
 Tenga presente que primero debe ejecutar la el programa.
 
-![]()
+![](https://github.com/andresro30/SparkWebCalculadora-Lab2AREP/blob/master/images/localhost.PNG)
 
 ## Ejecución de pruebas
 Para correr las pruebas debe usar el siguiente comando
@@ -65,7 +65,8 @@ En esta imagen se puede observar que las pruebas diseñadas para verificar el fu
 * [Maven](https://maven.apache.org/) : Herramienta encargada de la construcción del proyecto y el manejo de dependencias
 * [Spark](https://spark.apache.org/docs/0.9.1/java-programming-guide.html) : Framwework para desarrollo de aplicaciones web
 * [Git](https://git-scm.com/) : Sistema de control de versiones.
-* [Heroku](https://dashboard.heroku.com/apps) : Plataforma de servicios cloud.
+* [CircleCI](https://circleci.com/) : Integración contínua [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/andresro30/SparkWebCalculadora-Lab2AREP)
+* [Heroku](https://dashboard.heroku.com/apps) : Despliegue contínuo. [![Heroku](https://www.herokucdn.com/deploy/button.png)](https://hidden-stream-43548.herokuapp.com/) 
 * Java : Lenguaje de Programación.
 ## Autor
 * **Andrés Rocha** - [andresro30](https://github.com/andresro30)
